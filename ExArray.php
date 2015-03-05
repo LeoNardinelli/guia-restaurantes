@@ -29,7 +29,7 @@ for ($i=0; $i<=4;$i++) {
 for ($k=0; $k<=5; $k++) {
     echo "<td>";
     
- $array=[$i][$k];
+ echo "$array=[$i][$k]";
     
 }
 }
